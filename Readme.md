@@ -17,4 +17,4 @@ The tasks enriched by this code are focused around neuroscience.
   - git
   - unit-testing in notebooks
   
-img src="https://reconstrue.github.io/shell/ui/eight_bit_dual_gauge.png" />
+<img src="https://reconstrue.github.io/shell/ui/eight_bit_dual_gauge.png" />
